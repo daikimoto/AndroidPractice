@@ -14,10 +14,10 @@ class MainActivity: AppCompatActivity() {
         super.onCreate(savedInstanceState)
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
-        /*
+
         binding.toSpinnerButton.setOnClickListener {
             val intent = Intent(application,SpinnerActivity::class.java)
             startActivity(intent)
-        }*/
+        }
     }
 }
