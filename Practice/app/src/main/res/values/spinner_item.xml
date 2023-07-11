@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="user_items">
+        <item>佐藤</item>
+        <item>鈴木</item>
+        <item>高橋</item>
+        <item>伊藤</item>
+        <item>渡辺</item>
+        <item>山本</item>
+        <item>中村</item>
+        <item>小林</item>
+        <item>加藤</item>
+        <item>大野</item>
+    </string-array>
+</resources>
